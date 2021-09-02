@@ -65,7 +65,7 @@ class _NavigatorState extends State<Navigator> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.account_circle),
-            label: 'account',
+            label: 'Account',
           ),
         ],
         currentIndex: _selectedIndex,
